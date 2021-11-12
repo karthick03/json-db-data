@@ -1,0 +1,160 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "taskName": "Meeting with H&M",
+            "projectName": "H&M campaign for environment",
+            "isBillable": true,
+            "userId": 1
+        },
+        {
+            "id": 2,
+            "taskName": "Custom domain fixes",
+            "projectName": "Reebok 30 days implementation",
+            "isBillable": false,
+            "userId": 2
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Lizette",
+            "last_name": "Phippen",
+            "email": "lphippen0@berkeley.edu",
+            "avatar": "http://dummyimage.com/128x134.png/dddddd/000000"
+        },
+        {
+            "id": 2,
+            "first_name": "Garreth",
+            "last_name": "Heikkinen",
+            "email": "gheikkinen1@naver.com",
+            "avatar": "http://dummyimage.com/147x121.png/ff4444/ffffff"
+        },
+        {
+            "id": 3,
+            "first_name": "Jacky",
+            "last_name": "Turbefield",
+            "email": "jturbefield2@google.de",
+            "avatar": "http://dummyimage.com/116x202.png/cc0000/ffffff"
+        },
+        {
+            "id": 4,
+            "first_name": "Arman",
+            "last_name": "O'Scanlon",
+            "email": "aoscanlon3@bloomberg.com",
+            "avatar": "http://dummyimage.com/224x111.png/dddddd/000000"
+        },
+        {
+            "id": 5,
+            "first_name": "Truman",
+            "last_name": "Disbury",
+            "email": "tdisbury4@51.la",
+            "avatar": "http://dummyimage.com/117x146.png/cc0000/ffffff"
+        },
+        {
+            "id": 6,
+            "first_name": "Lizzy",
+            "last_name": "Kofax",
+            "email": "lkofax5@netvibes.com",
+            "avatar": "http://dummyimage.com/221x200.png/5fa2dd/ffffff"
+        },
+        {
+            "id": 7,
+            "first_name": "Mace",
+            "last_name": "Burg",
+            "email": "mburg6@washington.edu",
+            "avatar": "http://dummyimage.com/103x204.png/dddddd/000000"
+        },
+        {
+            "id": 8,
+            "first_name": "Luca",
+            "last_name": "Weatherall",
+            "email": "lweatherall7@exblog.jp",
+            "avatar": "http://dummyimage.com/172x191.png/ff4444/ffffff"
+        },
+        {
+            "id": 9,
+            "first_name": "Horatia",
+            "last_name": "Walduck",
+            "email": "hwalduck8@delicious.com",
+            "avatar": "http://dummyimage.com/109x226.png/dddddd/000000"
+        },
+        {
+            "id": 10,
+            "first_name": "Sadella",
+            "last_name": "Lack",
+            "email": "slack9@bing.com",
+            "avatar": "http://dummyimage.com/153x172.png/ff4444/ffffff"
+        },
+        {
+            "id": 11,
+            "first_name": "Dagny",
+            "last_name": "Zorzoni",
+            "email": "dzorzonia@nbcnews.com",
+            "avatar": "http://dummyimage.com/120x218.png/cc0000/ffffff"
+        },
+        {
+            "id": 12,
+            "first_name": "Tisha",
+            "last_name": "Polsin",
+            "email": "tpolsinb@usnews.com",
+            "avatar": "http://dummyimage.com/153x110.png/5fa2dd/ffffff"
+        },
+        {
+            "id": 13,
+            "first_name": "Wanids",
+            "last_name": "Winspar",
+            "email": "wwinsparc@indiatimes.com",
+            "avatar": "http://dummyimage.com/200x116.png/5fa2dd/ffffff"
+        },
+        {
+            "id": 14,
+            "first_name": "Arte",
+            "last_name": "Balstone",
+            "email": "abalstoned@e-recht24.de",
+            "avatar": "http://dummyimage.com/200x248.png/ff4444/ffffff"
+        },
+        {
+            "id": 15,
+            "first_name": "Ekaterina",
+            "last_name": "Quinet",
+            "email": "equinete@alexa.com",
+            "avatar": "http://dummyimage.com/143x214.png/5fa2dd/ffffff"
+        },
+        {
+            "id": 16,
+            "first_name": "Riobard",
+            "last_name": "Golder",
+            "email": "rgolderf@wix.com",
+            "avatar": "http://dummyimage.com/101x147.png/dddddd/000000"
+        },
+        {
+            "id": 17,
+            "first_name": "Hyacinthia",
+            "last_name": "Drakeford",
+            "email": "hdrakefordg@army.mil",
+            "avatar": "http://dummyimage.com/119x142.png/cc0000/ffffff"
+        },
+        {
+            "id": 18,
+            "first_name": "June",
+            "last_name": "Vedishchev",
+            "email": "jvedishchevh@tiny.cc",
+            "avatar": "http://dummyimage.com/112x182.png/ff4444/ffffff"
+        },
+        {
+            "id": 19,
+            "first_name": "Rance",
+            "last_name": "Ferre",
+            "email": "rferrei@craigslist.org",
+            "avatar": "http://dummyimage.com/227x132.png/5fa2dd/ffffff"
+        },
+        {
+            "id": 20,
+            "first_name": "Geordie",
+            "last_name": "Maccaddie",
+            "email": "gmaccaddiej@ftc.gov",
+            "avatar": "http://dummyimage.com/194x110.png/ff4444/ffffff"
+        }
+    ]
+}
