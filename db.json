@@ -11,8 +11,43 @@
             "id": 2,
             "taskName": "Custom domain fixes",
             "projectName": "Reebok 30 days implementation",
+            "isBillable": true,
+            "userId": 2
+        },
+        {
+            "id": 3,
+            "taskName": "Drag and drop the duplicate into the secon...",
+            "projectName": "Non-project activity",
             "isBillable": false,
             "userId": 2
+        },
+        {
+            "id": 4,
+            "taskName": "Daily sync",
+            "projectName": "Splunk 30 days implementation",
+            "isBillable": false,
+            "userId": 1
+        },
+        {
+            "id": 5,
+            "taskName": "Daily sync",
+            "projectName": "Splunk 30 days implementation",
+            "isBillable": false,
+            "userId": 2
+        },
+        {
+            "id": 6,
+            "taskName": "Domain changes",
+            "projectName": "Non-project activity",
+            "isBillable": false,
+            "userId": 2
+        },
+        {
+            "id": 7,
+            "taskName": "Add Timesheet modal",
+            "projectName": "Timesheet tracker",
+            "isBillable": true,
+            "userId": 1
         }
     ],
     "users": [
